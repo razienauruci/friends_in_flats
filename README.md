@@ -92,3 +92,9 @@ Please follow these instructions to set up and run the project locally.
     ```bash
     http://localhost:3000
     ```
+
+### Deployment
+
+The project is deployed on Vercel. You can view the live demo here:
+[Live Demo](https://friendsinflats-4zoiwftxg-razienaurucis-projects.vercel.app/)
+
