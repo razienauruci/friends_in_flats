@@ -96,5 +96,5 @@ Please follow these instructions to set up and run the project locally.
 ### Deployment
 
 The project is deployed on Vercel. You can view the live demo here:
-[Live Demo](https://friendsinflats-4zoiwftxg-razienaurucis-projects.vercel.app/)
+[Live Demo](https://friendsinflats-h16egzjsm-razienaurucis-projects.vercel.app/)
 
